@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Wonhoi_delivery_review_service_app" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="toolbarStyle">@style/Widget.wonhoiDeliverApp.Toolbar</item>
+        <item name="toolbarWithArrowButtonStyle">@style/Widget.wonhoiDeliverApp.Toolbar.WithArrow</item>
+        <item name="toolbarWithCloseButtonStyle">@style/Widget.wonhoiDeliverApp.Toolbar.WithClose</item>
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="Theme.Wonhoi_delivery_review_service_app">
+    <item name="android:textColorPrimary">@color/white</item>
+    <item name="android:textColorSecondary">@color/black</item>
+    <item name="android:background">@null</item>
+    </style>
+</resources>

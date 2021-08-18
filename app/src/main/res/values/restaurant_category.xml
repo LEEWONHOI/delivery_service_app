@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="all">All</string>
+    <string name="korean_food">Korean food</string>
+    <string name="dumpling_food">Dumpling food</string>
+    <string name="cafe_dessert">Cafe•Dessert</string>
+    <string name="japanese_food">Japanese food</string>
+    <string name="chinese_food">Chinese food</string>
+    <string name="asian_europe_food">Asian•Europe food</string>
+    <string name="fast_food">Fast food</string>
+    <string name="chicken_pizza">Chicken•Pizza</string>
+
+    <string name="all_type">식당</string>
+    <string name="korean_food_type">한식</string>
+    <string name="dumpling_food_type">분식</string>
+    <string name="cafe_dessert_type">카페;디저트</string>
+    <string name="japanese_food_type">일식;돈까스;회</string>
+    <string name="chinese_food_type">중식</string>
+    <string name="asian_europe_food_type">아시안;양식</string>
+    <string name="fast_food_type">패스트푸드</string>
+    <string name="chicken_pizza_type">치킨;피자</string>
+
+</resources>

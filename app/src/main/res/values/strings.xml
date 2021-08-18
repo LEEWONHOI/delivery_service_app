@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">wonhoi_delivery_review_service_app</string>
+    <string name="one_serving">1 serving</string>
+
+    <string name="loading">Loading…</string>
+
+    <string name="grade_format">%1$,.1f</string>
+
+    <string name="review_count">(%1$d++)</string>
+
+    <string name="delivery_time">%1$d~%2$dMin</string>
+
+    <string name="delivery_tip">Delivery Tip %1$,d won~%2$,d won</string>
+
+    <string name="price">%,d won</string>
+
+    <string name="set_this_location">Set address to this location</string>
+
+    <string name="please_request_location_permission">Please set location authority!</string>
+
+    <string name="please_set_your_current_location">Please make sure the location is correct!</string>
+
+
+    <string name="basket_count">+%d</string>
+
+    <string name="can_not_assigned_permission">Permission not granted</string>
+
+    <string name="can_not_load_address_info">Could not get location information.</string>
+
+    <string name="initialize">reset</string>
+    <string name="fast_delivery">fast delivery time</string>
+    <string name="low_delivery_tip">low delivery tip</string>
+    <string name="default_order">basic</string>
+    <string name="top_rate">high rating</string>
+    <string name="menu_my">my</string>
+    <string name="menu_home">home</string>
+    <string name="call">call</string>
+    <string name="menu_like">like</string>
+    <string name="share">share</string>
+
+    <string name="delivery_expected_time">expected to take 30 %1$d~%2$d minutes</string>
+    <string name="delivery_tip_range">%1$,d won ~ %2$,d won</string>
+
+    <string name="empty_orders_text">The order list does not exist.</string>
+    <string name="order">order</string>
+    <string name="logout">logout</string>
+    <string name="google_login_required">Google login required.</string>
+    <string name="order_list_check">order check</string>
+    <string name="do_order">do order</string>
+    <string name="clear_oder_menu">cancel order</string>
+
+    <string name="empty_like_restaurant_text">A history of likes does not exist.</string>
+
+    <!-- Error -->
+    <string name="request_error">Requested but unexpected issue occurred : %s</string>
+    <string name="user_id_not_found">User ID does not exist.</string>
+
+    <!-- like list -->
+    <string name="liked">liked</string>
+    <string name="like_list">like list</string>
+
+    <string name="order_history_title">order history : %s</string>
+    <string name="add_restaurant_review">%s add review</string>
+    <string name="title">title</string>
+    <string name="content">content</string>
+    <string name="add_review">add review</string>
+    <string name="add_image">add image</string>
+    <string name="flash">flash</string>
+    <string name="image_preview">image preview</string>
+    <string name="delete">delete</string>
+    <string name="confirm">confirm</string>
+
+    <!-- Image Preview -->
+    <string name="images_page">(%d/%d)</string>
+    <string name="new_location">location</string>
+    <string name="in_basket_error">You can only put menus from the same store in your basket cart.</string>
+    <string name="in_basket_clear">If you put the selected menu in the basket cart, the previous menu will be deleted.</string>
+    <string name="put_in">put in</string>
+    <string name="cancel">cancel</string>
+</resources>
